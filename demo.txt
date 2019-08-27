@@ -2,6 +2,6 @@ harshal patil
 new changes
 last changes
 abc added
-staging1 area
-unstage area]
-sdAKSKK
+staging area
+unstage area
+feature edit

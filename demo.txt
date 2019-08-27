@@ -2,4 +2,5 @@ harshal patil
 new changes
 last changes
 abc added
-staging area
+staging1 area
+unstage area

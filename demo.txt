@@ -6,3 +6,4 @@ staging area
 unstage area
 feature edit1
 <!-- Hello all ->
+edited by master

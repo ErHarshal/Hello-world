@@ -7,3 +7,4 @@ unstage area
 feature edit1
 <!-- Hello all ->
 edited by master
+origin master edit this file

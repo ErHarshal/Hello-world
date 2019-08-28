@@ -8,5 +8,9 @@ feature edit1
 <!-- Hello all ->
 edited by master
 origin master edit this file
+<<<<<<< HEAD
 hello all ----- harbingers 
 all are here
+=======
+HARSHAL IS HERE
+>>>>>>> 16c071946b3c85606125526b29d82d4108bdc06a

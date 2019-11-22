@@ -1,7 +1,0 @@
-hi all
-bye all
-origin master edited content
-master chnaged this
-nothing 
-changes in add.txt
-
